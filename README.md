@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, soy Josue Perez, Licenciado en Sistemas Computacionales, especializado en el desarrollo Frontend con JavaScript.<br><br>Con una sólida formación académica y una pasión innata por la tecnología, he dedicado mi carrera a la creación de experiencias digitales cautivadoras. Mi enfoque principal se centra en el desarrollo frontend, donde utilizo mi experiencia en JavaScript para construir interfaces de usuario interactivas y atractivas.
+Hola, soy Josue Perez, estudiante de la Licenciatura en Sistemas Computacionales, especializado en el desarrollo FullStack con diferentes lenguajes de Programación con los que trabajo actualmente es PHP Y JAVASCRIP.<br><br>Con una sólida formación académica y una pasión innata por la tecnología, he dedicado mi carrera a la creación de experiencias digitales cautivadoras. Mi enfoque principal se centra en el desarrollo frontend, donde utilizo mi experiencia en JavaScript para construir interfaces de usuario interactivas y atractivas.
 
 
 # 💻 Tech Stack:
